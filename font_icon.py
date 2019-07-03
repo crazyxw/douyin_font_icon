@@ -3,7 +3,6 @@
 import requests
 from lxml import etree
 
-
 font_map = {
     "58882": "1",
     "58883": "0",
